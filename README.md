@@ -1,10 +1,10 @@
 # Ruby Object Attributes Lab
 
-## Objectives 
+## Objectives
 
-1. Define ruby classes.
-2. Define methods that read from and write to instance variables.
-3. Create object properties using methods and instance variables.
+1.  Define ruby classes.
+2.  Define methods that read from and write to instance variables.
+3.  Create object properties using methods and instance variables.
 
 ## Overview
 
@@ -22,7 +22,7 @@ You'll be teaching `Dog` about their names through two methods, `#name`, and `#n
 
 ### Give a Dog a Breed
 
-You'll be teaching `Dog` about their breed through two methods, `#breed`, and `#breed=` that read and write to a corresponding instance variable `@breed`.
+You'll be teaching `Dog` abo`ut their breed through two methods,`#breed`, and`#breed=`that read and write to a corresponding instance variable`@breed`.
 
 ## `Person` and `lib/person.rb`
 
